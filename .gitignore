@@ -1,0 +1,16 @@
+# IDE
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+out/
+target/
+bin/
+
+# Project files
+*.lml
+
+# Other languages
+*.c
+*.cpp
